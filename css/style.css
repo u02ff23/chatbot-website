@@ -1,0 +1,83 @@
+body {
+    font-family: '', serif; /* Sets the font of the text in the body to '', a serif font. */
+    margin: 20px; /* Adds a 20px margin around the entire body. */
+    background-color: #5aadef; /* Sets the background color of the page to a light blue. */
+    color: #333; /* Sets the text color for the body to a dark gray. */
+    font-size: 18px; /* Sets the base font size for text in the body to 18px. */
+}
+
+header {
+    margin-bottom: 20px; /* Adds a 20px margin to the bottom of the header. */
+}
+
+footer {
+    text-align: center; /* Centers the text inside the footer. */
+    padding: 10px; /* Adds 10px of padding inside the footer. */
+    background-color: #f1a900; /* Sets the background color of the footer to a mustard yellow. */
+    color: black; /* Sets the text color in the footer to black. */
+}
+
+.custom-navbar, .navbar {
+    background-color: #f1a900; /* Sets the background color of the navbar to a mustard yellow. */
+    color: black; /* Sets the text color in the navbar to black. */
+    position: sticky; /* Makes the navbar stick to the top of the page when you scroll. */
+    top: 0; /* Positions the sticky navbar at the top of the viewport. */
+    z-index: 1000; /* Ensures the navbar stays on top of other content when scrolling. */
+}
+
+nav ul {
+    list-style-type: none; /* Removes bullets from the list in the nav. */
+    padding: 0; /* Removes padding from the list in the nav. */
+}
+
+nav ul li {
+    display: inline; /* Displays list items in a horizontal row instead of vertically. */
+    margin-right: 10px; /* Adds a 10px margin to the right of each list item. */
+}
+
+nav ul li a, .navbar-nav .nav-link {
+    text-decoration: none; /* Removes the underline from links in the navbar. */
+    color: black; /* Sets the text color of links in the navbar to black. */
+    font-size: 1.2em; /* Sets the font size of links in the navbar to 1.2 times the base font size. */
+    font-weight: bold; /* Makes the font weight of links in the navbar bold. */
+}
+
+nav ul li a:hover, nav ul li a:focus, .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
+    color: #fff; /* Changes the text color of navbar links to white when hovered or focused. */
+    background-color: black; /* Changes the background color of navbar links to black when hovered or focused. */
+}
+
+main {
+    margin-top: 20px; /* Adds a 20px margin to the top of the main content area. */
+    border: 1px solid black; /* Adds a 1px solid black border around the main content area. */
+}
+
+h1, h2, h3 {
+    font-weight: bold; /* Makes the text of h1, h2, and h3 headers bold. */
+}
+
+p {
+    line-height: 1.6; /* Sets the spacing between lines in paragraphs to 1.6 times the text height. */
+}
+
+img, .center-image, .curved {
+    max-width: 100%; /* Ensures images and elements with classes 'center-image' or 'curved' are not wider than their container. */
+    height: auto; /* Sets the height of images automatically to maintain their aspect ratio. */
+}
+
+.curved {
+    border-radius: 50%; /* Makes elements with the class 'curved' fully rounded. */
+}
+
+input[type="text"], input[type="email"], textarea {
+    width: 100%; /* Sets the width of text and email inputs, and textareas to 100% of their container. */
+    padding: 10px; /* Adds 10px of padding inside text and email inputs, and textareas. */
+    margin-top: 5px; /* Adds a 5px margin to the top of text and email inputs, and textareas. */
+    margin-bottom: 20px; /* Adds a 20px margin to the bottom of text and email inputs, and textareas. */
+    border: 1px solid #ccc; /* Adds a 1px solid border with a light gray color around text and email inputs, and textareas. */
+    border-radius: 5px; /* Rounds the corners of text and email inputs, and textareas with a 5px radius. */
+}
+
+a, button {
+    outline: none; /* Removes the outline that appears around links and buttons when they are clicked or focused. */
+}
