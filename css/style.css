@@ -74,10 +74,33 @@ input[type="text"], input[type="email"], textarea {
     padding: 10px; /* Adds 10px of padding inside text and email inputs, and textareas. */
     margin-top: 5px; /* Adds a 5px margin to the top of text and email inputs, and textareas. */
     margin-bottom: 20px; /* Adds a 20px margin to the bottom of text and email inputs, and textareas. */
-    border: 1px solid #ccc; /* Adds a 1px solid border with a light gray color around text and email inputs, and textareas. */
+    border: 1px solid black; /* Adds a 1px solid border with a light gray color around text and email inputs, and textareas. */
     border-radius: 5px; /* Rounds the corners of text and email inputs, and textareas with a 5px radius. */
 }
 
 a, button {
     outline: none; /* Removes the outline that appears around links and buttons when they are clicked or focused. */
 }
+
+#chatbox {
+    border: 1px solid black;
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+  }
+  
+  .message {
+    padding: 5px;
+    margin: 5px;
+    background-color: black;
+  }
+  
+  #messageInput {
+    width: calc(100% - 110px); /* Adjust width as needed */
+    margin-right: 5px;
+  }
+  
+  #sendButton {
+    width: 100px; /* Adjust width as needed */
+  }
+  
