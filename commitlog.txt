@@ -1,0 +1,83 @@
+commit db044f417b1c49ce1f294612b33971336083b7f7
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 16:40:23 2024 +0100
+
+    final changes now changing from visual studio code to codio
+
+commit 434f264835ea2efbcdd9424b2f0b40de744daee6
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 16:24:49 2024 +0100
+
+    fix
+
+commit f81053f1a2f697bb1dfbaf5ba5439fb461d686d1
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 15:57:02 2024 +0100
+
+    started creating chatbox
+
+commit 4194091bad91ba7caa36a4fefa867ef731df43c5
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 15:04:35 2024 +0100
+
+    css changes
+
+commit cf7c7aaf9142374ef41a978beb59609c7e3a033a
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 14:25:54 2024 +0100
+
+    finished about page with pictures, only css finishes and chat page left with documentation and comments
+
+commit 3853ecfcc7fb79ad33edee2f57aa00c135815341
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 14:13:14 2024 +0100
+
+    added images and finished home page
+
+commit 326e5fcc722b02784e46ff5ff94f23f60483bbc0
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 14:06:11 2024 +0100
+
+    added text to home and index pages along with picture, edit bootstrap for picture column
+
+commit 4fc5558c5142e13df0aaab9dd6f214817ba99a32
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 13:39:52 2024 +0100
+
+    basic css done and banner working with nav bar
+
+commit 1abbfbb4556c08d3068ed3fdcc2e875f92abad93
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 13:35:57 2024 +0100
+
+    changed route problems by taking html pages out of folder and deleted that html folder
+
+commit 4ac4b03c14bc769f9c512bb6297eff52191714c6
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 13:31:05 2024 +0100
+
+    fixed links
+
+commit 9dd73505477f3687aa8c7da7a3c63fb81510bd67
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 13:27:44 2024 +0100
+
+    added basic html and bootstrap to all pages
+
+commit bd8e0b8269d7ae0e0d68350a2d8c2d3e6a901f65
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 13:13:14 2024 +0100
+
+    added css styles (basic)
+
+commit 417fe5809c3443c183072e25aacda41c940d7bd7
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 12:56:26 2024 +0100
+
+    made css and js files and made banner in canva, added basic bootstrap and nav bar to index. started to design index page to re use on other pages
+
+commit 12457f93cb8b48cb58e2e25ab4aa0ee5f57a927d
+Author: u02ff23 <u02ff23@abdn.ac.uk>
+Date:   Wed Apr 3 12:36:35 2024 +0100
+
+    made html pages
