@@ -1,7 +1,7 @@
 body {
     font-family: '', serif; /* Sets the font of the text in the body to '', a serif font. */
     margin: 20px; /* Adds a 20px margin around the entire body. */
-    background-color: #5aadef; /* Sets the background color of the page to a light blue. */
+    background-color: #2e442f; /* Sets the background color of the page to a light blue. */
     color: #333; /* Sets the text color for the body to a dark gray. */
     font-size: 18px; /* Sets the base font size for text in the body to 18px. */
 }
@@ -13,12 +13,12 @@ header {
 footer {
     text-align: center; /* Centers the text inside the footer. */
     padding: 10px; /* Adds 10px of padding inside the footer. */
-    background-color: #f1a900; /* Sets the background color of the footer to a mustard yellow. */
+    background-color: #ffffff; /* Sets the background color of the footer to a mustard yellow. */
     color: black; /* Sets the text color in the footer to black. */
 }
 
 .custom-navbar, .navbar {
-    background-color: #f1a900; /* Sets the background color of the navbar to a mustard yellow. */
+    background-color: #ffffff; /* Sets the background color of the navbar to a mustard yellow. */
     color: black; /* Sets the text color in the navbar to black. */
     position: sticky; /* Makes the navbar stick to the top of the page when you scroll. */
     top: 0; /* Positions the sticky navbar at the top of the viewport. */
