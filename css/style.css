@@ -4,6 +4,7 @@ body {
     background-color: #2e442f; /* Sets the background color of the page to a light blue. */
     color: #ffffff; /* Sets the text color for the body to a dark gray. */
     font-size: 18px; /* Sets the base font size for text in the body to 18px. */
+    box-sizing: border-box;
 }
 
 header {
@@ -78,29 +79,3 @@ input[type="text"], input[type="email"], textarea {
     border-radius: 5px; /* Rounds the corners of text and email inputs, and textareas with a 5px radius. */
 }
 
-a, button {
-    outline: none; /* Removes the outline that appears around links and buttons when they are clicked or focused. */
-}
-
-#chatbox {
-    border: 1px solid black;
-    height: 300px;
-    overflow-y: scroll;
-    margin-bottom: 10px;
-  }
-  
-  .message {
-    padding: 5px;
-    margin: 5px;
-    background-color: black;
-  }
-  
-  #messageInput {
-    width: calc(100% - 110px); /* Adjust width as needed */
-    margin-right: 5px;
-  }
-  
-  #sendButton {
-    width: 100px; /* Adjust width as needed */
-  }
-  
